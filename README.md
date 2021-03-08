@@ -18,7 +18,7 @@ Firstly you can clone by using the command below:
 git clone https://github.com/BrunoUemura/node-postgres-restapi.git
 ```
 
-Or download the zip file directly from [Github](https://github.com/BrunoUemura/flask-restapi/archive/master.zip) and unzip it.
+Or download the zip file directly from [Github](https://github.com/BrunoUemura/node-postgres-restapi/archive/master.zip) and unzip it.
 
 After downloaded, open the project and run the following command to instal all the dependencies:
 
